@@ -1,0 +1,22 @@
+{
+  "assets": {
+    "bitcoin": {
+      "available": 1,
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "total": 2
+    },
+    "litecoin": {
+      "available": 0,
+      "name": "Litecoin",
+      "symbol": "ltc",
+      "total": 0
+    },
+    "euro": {
+      "available": 1000,
+      "name": "Euro",
+      "symbol": "EUR",
+      "total": 1200
+    }
+  }
+}

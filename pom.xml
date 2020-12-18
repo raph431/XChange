@@ -180,6 +180,7 @@
     <module>xchange-therock</module>
     <module>xchange-tradeogre</module>
     <module>xchange-truefx</module>
+    <module>xchange-tulpenladen</module>
     <module>xchange-upbit</module>
     <module>xchange-vaultoro</module>
     <module>xchange-yobit</module>
@@ -209,6 +210,7 @@
     <module>xchange-stream-service-netty</module>
     <module>xchange-stream-service-pubnub</module>
     <module>xchange-stream-huobi</module>
+    <module>xchange-tulpenladen</module>
   </modules>
 
   <repositories>

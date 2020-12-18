@@ -1,0 +1,45 @@
+{"currencies": [
+    {
+      "currency": "EUR",
+      "name": "Euro",
+      "txFee": 0.1,
+      "minAmount": 1,
+      "active": true
+    },
+    {
+      "currency": "BTC",
+      "name": "Bitcoin",
+      "txFee": 0.00001,
+      "minAmount": 0.0001,
+      "active": true
+    },
+    {
+      "currency": "LTC",
+      "name": "Litecoin",
+      "txFee": 0.0001,
+      "minAmount": 0.01,
+      "active": true
+    },
+    {
+      "currency": "DOG",
+      "name": "Dogecoin",
+      "txFee": 3,
+      "minAmount": 10,
+      "active": true
+    },
+    {
+      "currency": "IOT",
+      "name": "Iota",
+      "txFee": 0.1,
+      "minAmount": 1,
+      "active": true
+    },
+    {
+      "currency": "ETH",
+      "name": "Ethereum",
+      "txFee": 0.0001,
+      "minAmount": 0.001,
+      "active": true
+    }
+  ]
+}

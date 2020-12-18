@@ -1,0 +1,160 @@
+{
+  "markets": [
+    {
+      "name": "BitcoinEuro",
+      "currencyAname": "BTCEUR",
+      "currencyBname": "BTCEUR",
+      "currencypair": "BTCEUR",
+      "priceDecimals": 8,
+      "amountDecimals": 8,
+      "minTradeSizeCurA": 0.0001,
+      "minTradeSizeCurB": 10,
+      "fee": 0.001,
+      "active": true
+    },
+    {
+      "name": "BitcoinLitecoin",
+      "currencyAname": "BTCLTC",
+      "currencyBname": "BTCLTC",
+      "currencypair": "BTCLTC",
+      "priceDecimals": 8,
+      "amountDecimals": 8,
+      "minTradeSizeCurA": 0.0001,
+      "minTradeSizeCurB": 0.001,
+      "fee": 0.001,
+      "active": true
+    },
+    {
+      "name": "BitcoinDogecoin",
+      "currencyAname": "BTCDOG",
+      "currencyBname": "BTCDOG",
+      "currencypair": "BTCDOG",
+      "priceDecimals": 8,
+      "amountDecimals": 8,
+      "minTradeSizeCurA": 0.0001,
+      "minTradeSizeCurB": 1000,
+      "fee": 0.001,
+      "active": true
+    },
+    {
+      "name": "BitcoinEthereum",
+      "currencyAname": "BTCETH",
+      "currencyBname": "BTCETH",
+      "currencypair": "BTCETH",
+      "priceDecimals": 8,
+      "amountDecimals": 8,
+      "minTradeSizeCurA": 0.0001,
+      "minTradeSizeCurB": 0.001,
+      "fee": 0.001,
+      "active": true
+    },
+    {
+      "name": "EthereumEuro",
+      "currencyAname": "ETHEUR",
+      "currencyBname": "ETHEUR",
+      "currencypair": "ETHEUR",
+      "priceDecimals": 6,
+      "amountDecimals": 6,
+      "minTradeSizeCurA": 0.001,
+      "minTradeSizeCurB": 1,
+      "fee": 0.001,
+      "active": true
+    },
+    {
+      "name": "EthereumDogecoin",
+      "currencyAname": "ETHDOG",
+      "currencyBname": "ETHDOG",
+      "currencypair": "ETHDOG",
+      "priceDecimals": 8,
+      "amountDecimals": 8,
+      "minTradeSizeCurA": 0.001,
+      "minTradeSizeCurB": 1000,
+      "fee": 0.001,
+      "active": true
+    },
+    {
+      "name": "EthereumLitecoin",
+      "currencyAname": "ETHLTC",
+      "currencyBname": "ETHLTC",
+      "currencypair": "ETHLTC",
+      "priceDecimals": 8,
+      "amountDecimals": 8,
+      "minTradeSizeCurA": 0.001,
+      "minTradeSizeCurB": 1000,
+      "fee": 0.001,
+      "active": false
+    },
+    {
+      "name": "DogecoinEuro",
+      "currencyAname": "DOGEUR",
+      "currencyBname": "DOGEUR",
+      "currencypair": "DOGEUR",
+      "priceDecimals": 8,
+      "amountDecimals": 8,
+      "minTradeSizeCurA": 0.001,
+      "minTradeSizeCurB": 1000,
+      "fee": 0.001,
+      "active": false
+    },
+    {
+      "name": "DogecoinLitecoin",
+      "currencyAname": "DOGLTC",
+      "currencyBname": "DOGLTC",
+      "currencypair": "DOGLTC",
+      "priceDecimals": 8,
+      "amountDecimals": 8,
+      "minTradeSizeCurA": 0.001,
+      "minTradeSizeCurB": 1000,
+      "fee": 0.001,
+      "active": false
+    },
+    {
+      "name": "LitecoinEuro",
+      "currencyAname": "LTCEUR",
+      "currencyBname": "LTCEUR",
+      "currencypair": "LTCEUR",
+      "priceDecimals": 8,
+      "amountDecimals": 8,
+      "minTradeSizeCurA": 0.001,
+      "minTradeSizeCurB": 1000,
+      "fee": 0.001,
+      "active": false
+    },
+    {
+      "name": "IotaEuro",
+      "currencyAname": "IOTEUR",
+      "currencyBname": "IOTEUR",
+      "currencypair": "IOTEUR",
+      "priceDecimals": 8,
+      "amountDecimals": 8,
+      "minTradeSizeCurA": 0.001,
+      "minTradeSizeCurB": 1000,
+      "fee": 0.001,
+      "active": false
+    },
+    {
+      "name": "IotaBitcoin",
+      "currencyAname": "IOTBTC",
+      "currencyBname": "IOTBTC",
+      "currencypair": "IOTBTC",
+      "priceDecimals": 8,
+      "amountDecimals": 8,
+      "minTradeSizeCurA": 0.001,
+      "minTradeSizeCurB": 1000,
+      "fee": 0.001,
+      "active": false
+    },
+    {
+      "name": "IotaEthereum",
+      "currencyAname": "IOTETH",
+      "currencyBname": "IOTETH",
+      "currencypair": "IOTETH",
+      "priceDecimals": 8,
+      "amountDecimals": 8,
+      "minTradeSizeCurA": 0.001,
+      "minTradeSizeCurB": 1000,
+      "fee": 0.001,
+      "active": false
+    }
+  ]
+}

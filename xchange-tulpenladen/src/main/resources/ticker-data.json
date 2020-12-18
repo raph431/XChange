@@ -1,0 +1,32 @@
+{
+  "candles": [
+    {
+      "close": 0,
+      "high": 0,
+      "low": 0,
+      "open": 0,
+      "timespan": "1m",
+      "volume": 0
+    },
+    {
+      "close": 0,
+      "high": 0,
+      "low": 0,
+      "open": 0,
+      "timespan": "1m",
+      "volume": 0
+    },
+    {
+      "close": 0,
+      "high": 0,
+      "low": 0,
+      "open": 0,
+      "timespan": "1m",
+      "volume": 0
+    }
+  ],
+  "from": 1000000000,
+  "pair": "BTCEUR",
+  "res": 60,
+  "to": 120000000
+}

@@ -11,6 +11,7 @@
 
     <name>XChange LGO Stream</name>
     <artifactId>xchange-stream-lgo</artifactId>
+    <version>5.0.5-GEWURE</version>
 
     <dependencies>
         <dependency>

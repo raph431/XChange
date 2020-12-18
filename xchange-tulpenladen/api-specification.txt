@@ -1,0 +1,166 @@
+tulpenladen.at Exchange API specification
+================================
+
+Public API
+
+Documentation
+-------------
+https://tulpenladen.at/api
+
+
+Ticker
+------
+GET https://tulpenladen.at/streamservice/public/candles/BTCEUR
+
+NOT YET IMPLEMENTED
+
+
+Order book
+----------
+GET https://tulpenladen.at/backend/public/ordersbooks/BTCEUR
+Returns:
+{"pair": "BTCEUR",
+  "curA": "BTC",
+  "curB": "EUR",
+  "isFrozen": false,
+  "timestamp": 1529672832422,
+  "seq": 1000,
+  "asks": [
+    {
+      "amount": 4.0,
+      "price": 3000.0
+    },
+    {
+      "amount": 1.01,
+      "price": 3100.0
+    },
+    {
+      "amount": 0.01,
+      "price": 5000.0
+    }
+  ],
+  "bids": [
+    {
+      "amount": 0.01,
+      "price": 2500.0
+    },
+    {
+      "amount": 0.01,
+      "price": 3100.0
+    },
+    {
+      "amount": 0.002,
+      "price": 3500.0
+    }
+  ]
+}
+
+
+Trade history
+-------------
+GET https://tulpenladen.at/stats/public/ticker/BTCEUR
+Params:
+
+from - return trades with tid >= since
+to  - timestamp until
+
+Array/List of Trades (called Ticker at Tulpenladen) TODO namingconception maybe to be overthinked
+
+[
+  {
+    "tid": 7266,
+    "timestamp": "2018-11-03T03:23:06.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.006118000000000005,
+    "price": 5305
+  },
+  {
+    "tid": 7265,
+    "timestamp": "2018-11-03T03:23:06.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.026992499999999996,
+    "price": 5283
+  },
+]
+
+
+REQUEST LIMITS
+------
+Do not make more than 600 request per 10 minutes or we will ban your IP address.
+
+
+
+API authentication
+==================
+
+All private API calls require authentication. You need to provide 3 parameters to authenticate a request:
+
+key - API key
+nonce - Nonce
+signature - Signature
+
+
+API key
+-------
+To get an API key, go to "Account", "Security" and then "API Access". Set parmissions and click "Generate key".
+
+Nonce
+-----
+Nonce is a regular integer number. It must be increasing with every request you make.
+A common practice is to use unix time for that parameter.
+
+Signature
+---------
+Signature is a HMAC-SHA256 encoded message containing: nonce, client ID and API key.
+The HMAC-SHA256 code must be generated using a secret key that was generated with your API key.
+This code must be converted to it's hexadecimal representation (64 uppercase characters).
+
+Private Functions
+=================
+
+Account balance
+---------------
+POST https://tulpenladen.at/backend/private/wallet/
+Params:
+
+key - API key
+signature - signature
+nonce - nonce
+
+TODO
+
+Open orders
+-----------
+GET https://tulpenladen.at/backend/private/orders/active
+Params:
+
+key - API key
+signature - signature
+nonce - nonce
+
+TODO
+
+Cancel order
+------------
+PUT https://tulpenladen.at/backend/private/orders/cancel
+Params:
+
+key - API key
+signature - signature
+nonce - nonce
+id - order ID
+
+TODO
+
+
+Place order
+-----------
+POST https://tulpenladen.at/backend/private/orders/place
+Params:
+
+key - API key
+signature - signature
+nonce - nonce
+ TODO

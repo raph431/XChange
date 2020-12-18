@@ -1,0 +1,690 @@
+[
+  {
+    "tid": 7266,
+    "timestamp": "2018-11-03T03:23:06.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.006118000000000005,
+    "price": 5305
+  },
+  {
+    "tid": 7265,
+    "timestamp": "2018-11-03T03:23:06.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.026992499999999996,
+    "price": 5283
+  },
+  {
+    "tid": 7264,
+    "timestamp": "2018-11-03T03:22:58.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.009969500000000006,
+    "price": 5283
+  },
+  {
+    "tid": 7263,
+    "timestamp": "2018-11-03T03:22:57.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.029747499999999996,
+    "price": 5269
+  },
+  {
+    "tid": 7262,
+    "timestamp": "2018-11-03T03:22:50.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.003081200000000006,
+    "price": 5269
+  },
+  {
+    "tid": 7261,
+    "timestamp": "2018-11-03T03:22:49.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.02825219999999999,
+    "price": 5262
+  },
+  {
+    "tid": 7260,
+    "timestamp": "2018-11-03T03:22:42.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.004743800000000006,
+    "price": 5262
+  },
+  {
+    "tid": 7259,
+    "timestamp": "2018-11-03T03:22:41.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.027311699999999994,
+    "price": 5235
+  },
+  {
+    "tid": 7258,
+    "timestamp": "2018-11-03T03:22:34.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.0046902000000000055,
+    "price": 5235
+  },
+  {
+    "tid": 7257,
+    "timestamp": "2018-11-03T03:22:33.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.026981299999999993,
+    "price": 5226
+  },
+  {
+    "tid": 7256,
+    "timestamp": "2018-11-03T03:22:26.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.005172700000000009,
+    "price": 5226
+  },
+  {
+    "tid": 7255,
+    "timestamp": "2018-11-03T03:22:25.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.02720709999999999,
+    "price": 5204
+  },
+  {
+    "tid": 7254,
+    "timestamp": "2018-11-03T03:22:18.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.0056335000000000066,
+    "price": 5204
+  },
+  {
+    "tid": 7253,
+    "timestamp": "2018-11-03T03:22:17.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.03275549999999999,
+    "price": 5191
+  },
+  {
+    "tid": 7252,
+    "timestamp": "2018-11-03T03:22:10.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.00010010000000000574,
+    "price": 5191
+  },
+  {
+    "tid": 7251,
+    "timestamp": "2018-11-03T03:22:09.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.0316587,
+    "price": 5187
+  },
+  {
+    "tid": 7250,
+    "timestamp": "2018-11-03T03:22:08.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.0007219999999999935,
+    "price": 5154
+  },
+  {
+    "tid": 7249,
+    "timestamp": "2018-11-03T03:22:01.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.031949700000000004,
+    "price": 5154
+  },
+  {
+    "tid": 7248,
+    "timestamp": "2018-11-03T03:22:00.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.0005245999999999931,
+    "price": 5145
+  },
+  {
+    "tid": 7247,
+    "timestamp": "2018-11-03T03:21:52.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.03214050000000001,
+    "price": 5145
+  },
+  {
+    "tid": 7246,
+    "timestamp": "2018-11-03T03:21:52.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.001397499999999989,
+    "price": 5141
+  },
+  {
+    "tid": 7245,
+    "timestamp": "2018-11-03T03:21:44.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.03145280000000001,
+    "price": 5141
+  },
+  {
+    "tid": 7244,
+    "timestamp": "2018-11-03T03:21:43.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.0014031999999999933,
+    "price": 5135
+  },
+  {
+    "tid": 7243,
+    "timestamp": "2018-11-03T03:21:36.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.031128500000000003,
+    "price": 5135
+  },
+  {
+    "tid": 7242,
+    "timestamp": "2018-11-03T03:21:35.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.0015940999999999941,
+    "price": 5119
+  },
+  {
+    "tid": 7241,
+    "timestamp": "2018-11-03T03:21:28.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.029661200000000006,
+    "price": 5119
+  },
+  {
+    "tid": 7240,
+    "timestamp": "2018-11-03T03:21:27.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.002607299999999993,
+    "price": 5113
+  },
+  {
+    "tid": 7239,
+    "timestamp": "2018-11-03T03:21:20.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.02979090000000001,
+    "price": 5113
+  },
+  {
+    "tid": 7238,
+    "timestamp": "2018-11-03T03:21:19.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.0015110999999999944,
+    "price": 5110
+  },
+  {
+    "tid": 7237,
+    "timestamp": "2018-11-03T03:21:11.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.031404100000000004,
+    "price": 5110
+  },
+  {
+    "tid": 7236,
+    "timestamp": "2018-11-03T03:21:10.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.002797899999999999,
+    "price": 5105
+  },
+  {
+    "tid": 7235,
+    "timestamp": "2018-11-03T03:21:02.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.028229900000000002,
+    "price": 5105
+  },
+  {
+    "tid": 7234,
+    "timestamp": "2018-11-03T03:21:02.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.003700799999999997,
+    "price": 5093
+  },
+  {
+    "tid": 7233,
+    "timestamp": "2018-11-03T03:20:54.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.0314132,
+    "price": 5093
+  },
+  {
+    "tid": 7232,
+    "timestamp": "2018-11-03T03:20:53.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.0016217999999999996,
+    "price": 5053
+  },
+  {
+    "tid": 7231,
+    "timestamp": "2018-11-03T03:20:45.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "B",
+    "volume": 0.0313876,
+    "price": 5053
+  },
+  {
+    "tid": 7230,
+    "timestamp": "2018-11-03T02:49:40.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0310392,
+    "price": 5570
+  },
+  {
+    "tid": 7229,
+    "timestamp": "2018-11-03T02:49:39.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0031492000000000048,
+    "price": 5574
+  },
+  {
+    "tid": 7228,
+    "timestamp": "2018-11-03T02:49:37.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.029360499999999998,
+    "price": 5574
+  },
+  {
+    "tid": 7227,
+    "timestamp": "2018-11-03T02:49:36.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0034261000000000014,
+    "price": 5696
+  },
+  {
+    "tid": 7226,
+    "timestamp": "2018-11-03T02:49:34.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0008512999999999993,
+    "price": 5696
+  },
+  {
+    "tid": 7225,
+    "timestamp": "2018-11-03T02:49:33.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0315878,
+    "price": 5696
+  },
+  {
+    "tid": 7224,
+    "timestamp": "2018-11-03T02:49:30.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0274726,
+    "price": 5696
+  },
+  {
+    "tid": 7223,
+    "timestamp": "2018-11-03T02:49:29.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.005254300000000003,
+    "price": 5730
+  },
+  {
+    "tid": 7222,
+    "timestamp": "2018-11-03T02:49:26.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.026642599999999995,
+    "price": 5730
+  },
+  {
+    "tid": 7221,
+    "timestamp": "2018-11-03T02:49:25.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.005035500000000005,
+    "price": 5730
+  },
+  {
+    "tid": 7220,
+    "timestamp": "2018-11-02T20:35:31.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.03214449999999999,
+    "price": 5730
+  },
+  {
+    "tid": 7219,
+    "timestamp": "2018-11-02T20:35:30.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.002252500000000008,
+    "price": 5789
+  },
+  {
+    "tid": 7218,
+    "timestamp": "2018-11-02T20:35:27.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.02879269999999999,
+    "price": 5789
+  },
+  {
+    "tid": 7217,
+    "timestamp": "2018-11-02T20:35:26.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0034473000000000073,
+    "price": 5812
+  },
+  {
+    "tid": 7216,
+    "timestamp": "2018-11-02T20:35:24.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.028261899999999993,
+    "price": 5812
+  },
+  {
+    "tid": 7215,
+    "timestamp": "2018-11-02T20:35:23.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.004003900000000005,
+    "price": 5896
+  },
+  {
+    "tid": 7214,
+    "timestamp": "2018-11-02T20:35:20.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.030118099999999995,
+    "price": 5896
+  },
+  {
+    "tid": 7213,
+    "timestamp": "2018-11-02T20:35:19.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0012645000000000017,
+    "price": 5924
+  },
+  {
+    "tid": 7212,
+    "timestamp": "2018-11-02T20:35:16.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0313212,
+    "price": 5924
+  },
+  {
+    "tid": 7211,
+    "timestamp": "2018-11-02T20:35:13.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.006660300000000001,
+    "price": 5924
+  },
+  {
+    "tid": 7210,
+    "timestamp": "2018-11-02T20:35:12.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0250448,
+    "price": 5963
+  },
+  {
+    "tid": 7209,
+    "timestamp": "2018-11-02T20:35:09.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.012697199999999999,
+    "price": 5963
+  },
+  {
+    "tid": 7208,
+    "timestamp": "2018-11-02T20:35:08.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.026188799999999998,
+    "price": 5993
+  },
+  {
+    "tid": 7207,
+    "timestamp": "2018-11-02T20:35:05.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.006832900000000003,
+    "price": 5993
+  },
+  {
+    "tid": 7206,
+    "timestamp": "2018-11-02T20:35:04.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0329721,
+    "price": 5998
+  },
+  {
+    "tid": 7205,
+    "timestamp": "2018-11-02T20:35:02.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0016009000000000023,
+    "price": 5998
+  },
+  {
+    "tid": 7204,
+    "timestamp": "2018-11-02T20:35:01.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0309177,
+    "price": 6027
+  },
+  {
+    "tid": 7203,
+    "timestamp": "2018-11-02T20:34:58.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0006805000000000005,
+    "price": 6027
+  },
+  {
+    "tid": 7202,
+    "timestamp": "2018-11-02T20:34:57.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0308649,
+    "price": 6038
+  },
+  {
+    "tid": 7201,
+    "timestamp": "2018-11-02T20:34:54.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0006856999999999974,
+    "price": 6038
+  },
+  {
+    "tid": 7200,
+    "timestamp": "2018-11-02T20:34:53.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.031200900000000004,
+    "price": 6078
+  },
+  {
+    "tid": 7199,
+    "timestamp": "2018-11-02T20:34:50.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0038610999999999993,
+    "price": 6078
+  },
+  {
+    "tid": 7198,
+    "timestamp": "2018-11-02T20:34:49.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0321069,
+    "price": 6083
+  },
+  {
+    "tid": 7197,
+    "timestamp": "2018-11-02T20:34:45.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0008338000000000026,
+    "price": 6083
+  },
+  {
+    "tid": 7196,
+    "timestamp": "2018-11-02T20:34:44.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.037643,
+    "price": 6086
+  },
+  {
+    "tid": 7195,
+    "timestamp": "2018-11-02T20:34:44.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.001473199999999994,
+    "price": 6143
+  },
+  {
+    "tid": 7194,
+    "timestamp": "2018-11-02T20:34:40.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.029633500000000007,
+    "price": 6143
+  },
+  {
+    "tid": 7193,
+    "timestamp": "2018-11-02T20:34:39.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0017165999999999917,
+    "price": 6166
+  },
+  {
+    "tid": 7192,
+    "timestamp": "2018-11-02T20:34:36.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.031142400000000008,
+    "price": 6166
+  },
+  {
+    "tid": 7191,
+    "timestamp": "2018-11-02T20:34:35.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.001274399999999995,
+    "price": 6182
+  },
+  {
+    "tid": 7190,
+    "timestamp": "2018-11-02T20:34:31.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0317846,
+    "price": 6182
+  },
+  {
+    "tid": 7189,
+    "timestamp": "2018-11-02T20:34:31.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.004559399999999998,
+    "price": 6182
+  },
+  {
+    "tid": 7188,
+    "timestamp": "2018-11-02T20:34:27.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0313576,
+    "price": 6182
+  },
+  {
+    "tid": 7187,
+    "timestamp": "2018-11-02T20:34:26.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0003246000000000013,
+    "price": 6255
+  },
+  {
+    "tid": 7186,
+    "timestamp": "2018-11-02T20:34:23.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0306764,
+    "price": 6255
+  },
+  {
+    "tid": 7185,
+    "timestamp": "2018-11-02T20:34:22.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0023666999999999994,
+    "price": 6347
+  },
+  {
+    "tid": 7184,
+    "timestamp": "2018-11-02T20:34:18.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.030019000000000004,
+    "price": 6347
+  },
+  {
+    "tid": 7183,
+    "timestamp": "2018-11-02T20:34:17.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0012640999999999972,
+    "price": 6361
+  },
+  {
+    "tid": 7182,
+    "timestamp": "2018-11-02T20:34:13.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 0.0314448,
+    "price": 6361
+  },
+  {
+    "tid": 7181,
+    "timestamp": "2018-10-30T22:56:34.000+0000",
+    "currPair": "BTCEUR",
+    "sellOrBuy": "S",
+    "volume": 1,
+    "price": 5000
+  }
+]
